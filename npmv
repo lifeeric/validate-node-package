@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Need to get application name 
+# and version.
+
+curr_dir=$(pwd)
+current_project="${curr_dir}/package.json"
+
+name=$(grep -i "name" ${current_project} )
+version=$(grep -i "version" ${current_project});
+
+echo $name 
+echo $version
+exit 0;
