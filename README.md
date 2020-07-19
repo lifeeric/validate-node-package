@@ -1,6 +1,7 @@
 # validate-node-package
 This script will help you to find the project name and version in package.json file!
 
+![npmv](npmv.gif)
 
 ## How
 
