@@ -15,7 +15,7 @@ and make permissions
 cd validate-node-package
 
 chmod +x npmv
-``
+```
 
 and make it globally
 
