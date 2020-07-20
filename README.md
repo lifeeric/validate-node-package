@@ -1,5 +1,5 @@
 # validate-node-package
-This script will help you to find the project name and version in package.json file!
+This script will help you to find the project's name and version from package.json file!
 
 ![npmv](npmv.gif)
 
@@ -24,3 +24,4 @@ and make it globally
 sudo cp npmv /bin
 ```
 
+### (This Script is for this stackoverflow question)[https://stackoverflow.com/questions/62966815/how-to-run-npm-scripts-at-the-global-level-enforce-on-all-node-projects/62977739?noredirect=1#comment111396530_62977739]
